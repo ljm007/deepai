@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">DeepAI</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="btn_setting_accessibility">点击进入无障碍设置</string>
+    <string name="btn_setting_user">点击更新用户画像</string>
+    <string name="btn_send">发送</string>
+    <string name="tv_open_service">打开前台服务</string>
+    <string name="tv_close_service">关闭前台服务</string>
+    <string name="sw_update_user">是否更新用户画像</string>
+    <string name="ed_user_hint">请输入用户画像</string>
+    <string name="ed_msg_hint">请输入消息</string>
+    <string name="app_content">AI手机助手</string>
+    <string name="toast_please_setting">请先在无障碍设置中打开AI手机助手</string>
+
+</resources>
